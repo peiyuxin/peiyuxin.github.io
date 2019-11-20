@@ -11,10 +11,13 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# 关于我
+## 个人信息
+- 邮箱：928635962@qq.com
+- 技术博客：peiyuxin.github.io
+- github:https://github.com/peiyuxin
 
+---
 - Bulleted
 - List
 
